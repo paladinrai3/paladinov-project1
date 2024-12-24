@@ -1,0 +1,10 @@
+C:\Users\315\source\repos\Aplication\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\315\source\repos\Aplication\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\315\source\repos\Aplication\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\315\source\repos\Aplication\ConsoleApp1\bin\Debug\ClassLibrary1.dll
+C:\Users\315\source\repos\Aplication\ConsoleApp1\bin\Debug\ClassLibrary1.pdb
+C:\Users\315\source\repos\Aplication\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\315\source\repos\Aplication\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\315\source\repos\Aplication\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+C:\Users\315\source\repos\Aplication\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\315\source\repos\Aplication\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
